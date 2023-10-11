@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VikasMovies/static/css/main.4e91c9de.css",
+    "main.js": "/VikasMovies/static/js/main.0be703d7.js",
+    "static/js/787.cb03581b.chunk.js": "/VikasMovies/static/js/787.cb03581b.chunk.js",
+    "index.html": "/VikasMovies/index.html",
+    "main.4e91c9de.css.map": "/VikasMovies/static/css/main.4e91c9de.css.map",
+    "main.0be703d7.js.map": "/VikasMovies/static/js/main.0be703d7.js.map",
+    "787.cb03581b.chunk.js.map": "/VikasMovies/static/js/787.cb03581b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e91c9de.css",
+    "static/js/main.0be703d7.js"
+  ]
+}
