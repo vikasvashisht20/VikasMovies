@@ -59,7 +59,7 @@ const SingleMovie = () => {
             <p className="card-text">{movie.Genre}</p>
             <p className="card-text">{movie.imdbRating} /10</p>
             <p className="card-text">{movie.Country}</p>
-            <NavLink to = "/" className= "back-btn">Go Back </NavLink>
+            <NavLink to = "/VikasMovies" className= "back-btn">Go Back </NavLink>
           </div>
         </div>
       </section>

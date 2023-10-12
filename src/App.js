@@ -12,9 +12,10 @@ const App = () => {
         <Route path='/VikasMovies' element = {<Home />} />
         <Route path='/VikasMovies/movie/:id' element= {<SingleMovie />}  />
         <Route path='*' element = {<Error />} />
+
       </Routes>
     
-    )
+     )
 }
 
 export default App
